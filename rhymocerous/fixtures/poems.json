@@ -1,0 +1,42 @@
+[
+    {
+        "model": "rhymocerous.poem",
+        "pk": 1,
+        "fields": {
+            "title": "On delivering a pizza",
+            "poet": 1,
+            "body": "When I get to the store from my last delivery I try to find my next order<br />I see your name before I ever see your face<br />Know your address before we have spoken a word<br />Once I find the correct half scratched off number on your mailbox I park my car and rush to your door<br />As I knock and wait I try to think of something new to say<br />Saying the same thing all night tends to get dull<br />“Good evening, here’s your pizza.”<br />You say thank you<br />“Sign here, keep the bottom copy.”<br />While you sign and think of how much to tip me, I look away out of some unnamed courtesy<br />I see the receipt that you hand back to me<br />I politely say good night and leave as you say the same and close your door<br /><br />I don’t think there is a word for that<br />That feeling between two passing strangers<br />Knowing so little, and so much of the person that looks back<br />They are always different<br />They are always similar in someway though too<br />Some of them I will never see again<br />Some of them will never think of me again<br />And yet I gave them a pizza<br />How beautiful pizza is",
+            "createdAt": "2019-12-12"
+        }
+    },
+    {
+        "model": "rhymocerous.poem",
+        "pk": 2,
+        "fields": {
+            "title": "Crushed by a Red Bull",
+            "poet": 1,
+            "body": "I am a RedBull<br />crushed by the pressure of society and out of energy<br />They tell me I have to get busy living or get busy dying<br />But I better not take it easy or enjoy my life<br />I need to have wings to fly<br />Instead of walking peaceably on the ground<br />I’m crushed by the realization that I’m not my own<br />I’m a money making busy bee programmed by society to regain my energy when I’m tired rather than taking a nap<br /><br />I am a Red Bull<br />Charging and stomping at everything that I hate<br />Not realizing that the red I see is coated on me<br />I’m a hypocrite<br />I am what I hate in others and I criticize the world<br />My corner of society is as bad as yours<br />Yet I blame my problems on those who have the least control of them<br />So I gore them to death and stomp on their will to survive<br />Grandpa always said “If you run with wolves, you’ll howl with them”, but he never told us running with the bulls is deadly",
+            "createdAt": "2020-03-08"
+        }
+    },
+    {
+        "model": "rhymocerous.poem",
+        "pk": 1,
+        "fields": {
+            "title": "On March 3, 2020",
+            "poet": 1,
+            "body": "a twist of fate<br />25 dead and counting<br />officials say stay home but the good Samaritan never sleeps<br />buildings destroyed<br />with no prejudice to race sex age or status<br />mother nature reminds us she is still in control<br />don’t sleep too heavy or you might not wake<br />tears fall with the same ferocity as raindrops<br />welcome to Nashville<br />we can’t control the weather but we weather the aftermath pretty well",
+            "createdAt": "2020-03-03"
+        }
+    },
+    {
+        "model": "rhymocerous.poem",
+        "pk": 3,
+        "fields": {
+            "title": "A young dead boy and an empty journal",
+            "poet": 1,
+            "body": "Driving to school one morning, listening to music, contemplating the next three months of class, and thinking about his future. He’s a writer and thinker with a line or two in his mind. He just got a new journal and is planning the first page. Thinking of lines, not paying attention to the lines on the road. For the first time he’s hopeful for the plans that he’s laid, and that hope is running into the lines in his head.<br /><br />He’s a good kid, but he’s had his dark streaks. He’s lost a lot of ink to the surface of paper, and he’s lost a lot of words to his instinct for poetry.<br />All alone, he contemplates self.<br />All alone, he fixes his health.<br /><br />Drunk driver meets rainy roads, our man can’t tell the future, so he doesn’t know to look.<br />Silver Cadillac, SUV, flips the Corolla, XSE.<br />His head is hurt, and his car’s in the ditch. It’s getting warmer, but he wants to sleep. Didn’t see the gas leaking, so he slept through the fire.<br /><br />When the paramedics arrive, they can’t ID the young man. The police report will say that he was gripping a leather bound journal when they pulled him from the wreckage. The journal was as badly burned and unrecognizable.<br /><br />The family knew days before they got the call from metro police. He never misses family dinner, and he hadn’t called in over four days.<br /><br />When they got to the morgue, laying on the table was,<br />A young dead boy and an empty journal.",
+            "createdAt": "2020-02-10"
+        }
+    }
+]
