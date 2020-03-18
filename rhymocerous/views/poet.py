@@ -20,6 +20,7 @@ class PoetSerializer(serializers.HyperlinkedModelSerializer):
             lookup_field='id'
         )
         fields = ('id', 'user')
+        depth = 2
 
 
 class Poets(ViewSet):
