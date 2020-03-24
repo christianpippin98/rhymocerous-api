@@ -45,6 +45,12 @@ class Poems(ViewSet):
             Response -- JSON serialized list of poems
         """
         poems = Poem.objects.all()
+        # filter by logged in poet ID
+        # defines the user ID
+        poet_id = request.auth.user.poet.id
+        is_logged_in_poet = self.request.query_params.get('poet', False)
+        if is_logged_in_poet == 'true':
+            poems = poems.filter(poet__id=poet_id)
         serializer = PoemSerializer(
             poems,
             many=True,
