@@ -19,7 +19,7 @@ class UserSerializer(serializers.HyperlinkedModelSerializer):
             lookup_field='id'
         )
         #the fields are the columns you want to include in the database
-        fields = ('id', 'username', 'email')
+        fields = ('id', 'username', 'email', 'first_name', 'last_name')
         # depth = 2
 
 class Users(ViewSet):
